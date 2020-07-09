@@ -13,4 +13,4 @@
 - Rails
 - Deno
 
-Check out some of my starred repositories to get an idea of what I've been working on!
+Check out some of my pinned repositories to get an idea of what I've been working on!
