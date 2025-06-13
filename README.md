@@ -1,6 +1,6 @@
 ## Hey ✌️
 
-I'm an experienced full-stack engineer with a proven track record of delivering exceptional product experiences and driving strong collaboration with cross-functional teams.
+I'm an experienced software engineer with a passion for building products that change lives.
 
 Checkout my pinned repos for the side projects I've built.
 
